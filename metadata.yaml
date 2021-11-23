@@ -1,11 +1,16 @@
 _repo: La-Vedette_66695
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66695-h/images/cover.jpg
 creator:
   author:
     agent_name: Guilbert, Yvette
     gutenberg_agent_id: '53920'
     url: http://www.gutenberg.org/2009/agents/53920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66695#La-Vedette
 gutenberg_issued: '2021-11-08'
 identifiers:
   gutenberg: '66695'
